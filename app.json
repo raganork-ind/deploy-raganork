@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/souravkl11/upstream-repo",
+	"repository": "https://github.com/raganork-ind/deploy-raganork",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
